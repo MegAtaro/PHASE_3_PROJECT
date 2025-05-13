@@ -13,16 +13,26 @@ The dataset used in this analysis includes various features related to customer 
 ## Modeling
 The analysis involved building classification models to predict whether a customer would churn. Two types of models were developed:
 1. **Logistic Regression**: A simple model to establish a baseline for performance.
-2. **Decision Tree**: A more complex model that provided better accuracy and interpretability.
+![image](https://github.com/user-attachments/assets/7973761d-2914-419d-933c-d58625d1f3c3)
+
+2. **Decision Tree**: A more complex model with better accuracy and interpretability.
+   
+ **Decision Tree (Baseline)**
+![image](https://github.com/user-attachments/assets/31012479-2fde-4b1b-9b31-e83f8fbd624e)
+
+4. **Decision Tree (Tuned)**
+![image](https://github.com/user-attachments/assets/017c0384-a2d9-4ecd-9c7f-01f57e55ec89)
 
 ## Evaluation
 Model performance was evaluated using several metrics:
-- **Accuracy**: The percentage of correct predictions made by the model.
-- **Precision**: The proportion of true positive predictions in relation to all positive predictions made.
+- **Accuracy**: The percentage of correct predictions the model makes.
+- **Precision**: The proportion of true positive predictions with all positive predictions made.
 - **Recall**: The ability of the model to identify all relevant cases (actual churners).
 - **F1-Score**: A balance between precision and recall.
 
-The decision tree model outperformed the logistic regression model, indicating it was better at identifying customers likely to churn.
+The decision tree tuned model outperformed the logistic regression model, indicating it was better at identifying customers likely to churn.
+
+![image]()
 
 ## Conclusion
 The project successfully developed a predictive model for customer churn in the telecommunications sector. Key recommendations were made to help the company retain at-risk customers, such as targeted marketing campaigns and improved customer service interventions.
