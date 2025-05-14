@@ -35,7 +35,7 @@ The decision tree-tuned model outperformed the logistic regression model, indica
 ![image](https://github.com/MegAtaro/PHASE_3_PROJECT/blob/aa67bbcab61f1f2e12818099be3b5949e2f53eab/MODEL%20COMPARISON%20SUMMARY.PNG)
 
 ## Conclusion
-The project successfully developed a predictive model for customer churn in the telecommunications sector. Key recommendations were made to help the company retain at-risk customers, such as targeted marketing campaigns and improved customer service interventions.
+The project successfully developed a predictive model for customer churn in the telecommunications sector. Key recommendations were made to help the company retain at-risk customers, such as targeted marketing campaigns and improved customer service .
 
 ## Links
 - [Download Presentation](link_to_presentation)
