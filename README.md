@@ -1,10 +1,10 @@
-# Customer Churn Prediction Project
+# README: Customer Churn Prediction Project
 
 ## Overview
 This project focuses on predicting customer churn for a telecommunications company. By identifying customers likely to leave, the company can implement strategies to retain them, thus enhancing customer satisfaction and profitability.
 
 ## Business and Data Understanding
-### Stakeholder Audience
+### Stakeholder
 The primary stakeholder for this project is a telecommunications company that aims to reduce customer churn. Understanding which customers are at risk of leaving is crucial for developing effective retention strategies.
 
 ### Dataset Choice
@@ -30,9 +30,9 @@ Model performance was evaluated using several metrics:
 - **Recall**: The ability of the model to identify all relevant cases (actual churners).
 - **F1-Score**: A balance between precision and recall.
 
-The decision tree tuned model outperformed the logistic regression model, indicating it was better at identifying customers likely to churn.
+The decision tree-tuned model outperformed the logistic regression model, indicating it was better at identifying customers likely to churn.
 
-![image]()
+![image](https://github.com/MegAtaro/PHASE_3_PROJECT/blob/aa67bbcab61f1f2e12818099be3b5949e2f53eab/MODEL%20COMPARISON%20SUMMARY.PNG)
 
 ## Conclusion
 The project successfully developed a predictive model for customer churn in the telecommunications sector. Key recommendations were made to help the company retain at-risk customers, such as targeted marketing campaigns and improved customer service interventions.
@@ -46,3 +46,7 @@ To navigate this repository:
 1. Clone or download the repository to your local machine.
 2. Open the Jupyter Notebook file to view the analysis and code.
 3. Refer to the presentation for a summary of findings and recommendations.
+
+## Author
+* Meggy Donna Ombwayo
+
